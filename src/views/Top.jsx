@@ -20,6 +20,7 @@ function Top() {
 
     return (
         <div className="max-w-7xl mx-auto px-4 py-8">
+            <h1 className="text-3xl font-bold mb-6">Top Titulares</h1>
             {topNews.length > 0 && (
                 <NewsRow articles={topNews} />
             )}

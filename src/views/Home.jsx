@@ -26,7 +26,7 @@ function Home() {
                     >
                         <div className="flex flex-col gap-3">
                             <h2 className="text-2xl font-bold text-white group-hover:text-indigo-400 transition-colors">
-                                Top Headlines
+                                Top Titulares
                             </h2>
                             <p className="text-gray-300">
                                 Las noticias más importantes del momento
